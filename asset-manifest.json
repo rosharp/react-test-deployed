@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-test-deployed/static/css/main.a25da335.css",
+    "main.js": "/react-test-deployed/static/js/main.93506418.js",
+    "static/js/787.409c6885.chunk.js": "/react-test-deployed/static/js/787.409c6885.chunk.js",
+    "static/media/a-logo.svg": "/react-test-deployed/static/media/a-logo.5e2d5c0348a029df06ba38b7f3e6be41.svg",
+    "static/media/empty-cart-dark.svg": "/react-test-deployed/static/media/empty-cart-dark.d19953670255792370f9fd25fc20f2ce.svg",
+    "static/media/empty-cart.svg": "/react-test-deployed/static/media/empty-cart.d76ac22cc1fc1a89e7caa047b256c7ee.svg",
+    "static/media/toggleArrow.svg": "/react-test-deployed/static/media/toggleArrow.a8b8f3490cda04362e6edc8113ad1a25.svg",
+    "index.html": "/react-test-deployed/index.html",
+    "static/media/plus.svg": "/react-test-deployed/static/media/plus.e5cd68e58ecd486bb4c60a74e3f45dce.svg",
+    "static/media/minus.svg": "/react-test-deployed/static/media/minus.2607d2ea8c2842a32276477b50bd3d99.svg",
+    "static/media/next.svg": "/react-test-deployed/static/media/next.2b3df7fa4b2ee46ffc88f1ffd4c5477d.svg",
+    "static/media/prev.svg": "/react-test-deployed/static/media/prev.094650e36d34652232c9374dc5998a78.svg",
+    "main.a25da335.css.map": "/react-test-deployed/static/css/main.a25da335.css.map",
+    "main.93506418.js.map": "/react-test-deployed/static/js/main.93506418.js.map",
+    "787.409c6885.chunk.js.map": "/react-test-deployed/static/js/787.409c6885.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25da335.css",
+    "static/js/main.93506418.js"
+  ]
+}
